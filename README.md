@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Gokulmalav
-- 👀 I’m interested in esports, reading books, traveling and so no
-- 🌱 I’m currently learning Deep learning and NLP.
-- In my past year i learned about python,basic SQL and PowerBI, and main important Machine Learning.
-- 📫 You can contact me through gokulmalav24@gmail.com
-- ⚡ Fun fact: i don't know how i find ways to solve my friend's problem.
+- 👀 I’m interested in esports, parties, traveling, gathering and many more
+- I’m currently learning GenAI, LangGraph, FastAPI.
+- In my past year i learned about python,basic SQL and PowerBI, and main important AI learning(ML,DL,NLP,).
+- You can contact me through gokulmalav24@gmail.com
+- Fun fact: I don't know how I found the solution of my friends problem.
 
 <!---
 Gokulmalav/Gokulmalav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
